@@ -1,0 +1,30 @@
+{
+  "name": "ladang-laba-ml",
+  "version": "1.0.0",
+  "description": "The ML part of Ladang Laba webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ladang-Laba-Dev/ladang-laba-ml.git"
+  },
+  "keywords": [
+    "machine-learning",
+    "web-api"
+  ],
+  "author": "Kenez Adroo Ufairoh, Muhammad Sirojuddin, Erna Riyanti, Ardika Arshal Anwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ladang-Laba-Dev/ladang-laba-ml/issues"
+  },
+  "homepage": "https://github.com/Ladang-Laba-Dev/ladang-laba-ml#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
